@@ -1,6 +1,6 @@
 # Algorithm comparison
 
-Just for fun - one of my university projects - a visualization that compares (or at least tries to compare) four sorting algorithms. Written in Java.
+Just for fun - one of my university projects - a visualization that compares (or at least tries to compare) four sorting algorithms. Written in Java (in 2008).
 
 ## Compile and run
 
@@ -29,4 +29,4 @@ Run in root folder:
 java -jar algorithmcomparison.jar
 ```
 
-Tested with Java(TM) SE Runtime Environment (build 1.8.0_121-b13
+Tested with Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
